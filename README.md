@@ -1,0 +1,2 @@
+# bolib
+simple c library
